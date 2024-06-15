@@ -33,3 +33,16 @@ Content-Type: application/json
 "location": "OUTDOOR"
 }
 
+### update existing run
+PUT http://localhost:8080/api/runs
+{
+"id": 11,
+"title": "",
+"startedOn": "2024-06-13T14:15:00.00000",
+"completedOn": "2024-06-13T14:30:00.00000",
+"kilometers": 2,
+"location": "INDOOR"
+}
+
+### delete
+DELETE http://localhost:8080/api/runs/11

@@ -1,0 +1,92 @@
+{
+  "runs": [
+    {
+      "id": 1,
+      "title": "After work run",
+      "startedOn": "2024-06-13T14:15:00.00000",
+      "completedOn": "2024-06-13T14:30:00.00000",
+      "kilometers": 2,
+      "location": "INDOOR"
+    },
+    {
+      "id": 2,
+      "title": "Before sleep run",
+      "startedOn": "2024-06-13T14:15:00.00000",
+      "completedOn": "2024-06-13T14:30:00.00000",
+      "kilometers": 2,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 3,
+      "title": "Run low tempo",
+      "startedOn": "2024-06-13T14:15:00.00000",
+      "completedOn": "2024-06-13T14:30:00.00000",
+      "kilometers": 2,
+      "location": "INDOOR"
+    },
+    {
+      "id": 4,
+      "title": "Low tempo run",
+      "startedOn": "2024-06-13T14:15:00.00000",
+      "completedOn": "2024-06-13T14:30:00.00000",
+      "kilometers": 2,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 5,
+      "title": "hot day run",
+      "startedOn": "2024-06-13T14:15:00.00000",
+      "completedOn": "2024-06-13T14:30:00.00000",
+      "kilometers": 2,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 6,
+      "title": "rain run",
+      "startedOn": "2024-06-13T14:15:00.00000",
+      "completedOn": "2024-06-13T14:30:00.00000",
+      "kilometers": 2,
+      "location": "INDOOR"
+    },
+    {
+      "id": 7,
+      "title": "chill run",
+      "startedOn": "2024-06-13T14:15:00.00000",
+      "completedOn": "2024-06-13T14:30:00.00000",
+      "kilometers": 2,
+      "location": "INDOOR"
+    },
+    {
+      "id": 8,
+      "title": "morning run",
+      "startedOn": "2024-06-13T14:15:00.00000",
+      "completedOn": "2024-06-13T14:30:00.00000",
+      "kilometers": 2,
+      "location": "INDOOR"
+    },
+    {
+      "id": 9,
+      "title": "Midnight run",
+      "startedOn": "2024-06-13T14:15:00.00000",
+      "completedOn": "2024-06-13T14:30:00.00000",
+      "kilometers": 2,
+      "location": "INDOOR"
+    },
+    {
+      "id": 10,
+      "title": "Sunrise run",
+      "startedOn": "2024-06-13T14:15:00.00000",
+      "completedOn": "2024-06-13T14:30:00.00000",
+      "kilometers": 2,
+      "location": "INDOOR"
+    },
+    {
+      "id": 11,
+      "title": "Sunset run",
+      "startedOn": "2024-06-13T14:15:00.00000",
+      "completedOn": "2024-06-13T14:30:00.00000",
+      "kilometers": 2,
+      "location": "INDOOR"
+    }
+  ]
+}

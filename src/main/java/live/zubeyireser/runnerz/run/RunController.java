@@ -27,11 +27,14 @@ public class RunController {
     public RunController(RunRepository runRepository) {
         this.runRepository = runRepository;
     }
-    /*
+
     @GetMapping ("")
     List<Run> findAll() {
         return runRepository.findAll();
     }
+
+
+
     // dynamically creating url whenever valid id is inserted it will create id accordingly
     @GetMapping("/{id}")
     Run findById(@PathVariable Integer id) {
@@ -60,6 +63,6 @@ public class RunController {
         runRepository.delete(id);
     }
 
-     */
+
 
 }
