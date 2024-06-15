@@ -10,7 +10,7 @@ import java.util.Optional;
 
 @Repository
 public class RunRepository {
-    private List<Run> runs = new ArrayList<>();
+    /*
     // THIS METHODS RETURNS OUR RUNS IN THE SYSTEM
     List<Run> findAll() {
         return runs;
@@ -50,6 +50,10 @@ public class RunRepository {
                 LocalDateTime.now().plusMinutes(45),
                 3,
                 Location.OUTDOOR));
+
+     */
+    private List<Run> runs = new ArrayList<>();
+
     }
 
 
