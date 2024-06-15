@@ -1,0 +1,35 @@
+### Find all runs
+GET http://localhost:8080/api/runs
+
+### Find by id
+GET http://localhost:8080/api/runs/2
+
+
+### Find by id that doesnt exist
+GET http://localhost:8080/api/runs/99
+
+### Create new Run
+POST http://localhost:8080/api/runs
+Content-Type: application/json
+
+{
+"id": 3,
+"title": "Afternoon Sprint",
+"startedOn": "2024-06-13T14:15:00.00000",
+"completedOn": "2024-06-13T14:30:00.00000",
+"kilometers": 2,
+"location": "OUTDOOR"
+}
+### Create new Run with invalid dates
+POST http://localhost:8080/api/runs
+Content-Type: application/json
+
+{
+"id": 3,
+"title": "",
+"startedOn": "2024-06-13T14:15:00.00000",
+"completedOn": "2024-06-13T14:30:00.00000",
+"kilometers": 2,
+"location": "OUTDOOR"
+}
+
